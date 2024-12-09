@@ -1,0 +1,7 @@
+flask
+flask-graphql
+graphene
+pandas
+numpy
+keras
+tensorflow
